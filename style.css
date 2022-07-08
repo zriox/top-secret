@@ -69,7 +69,7 @@ body {
 #main * {
     margin: unset;
 }
-#main h1 {
+#main > h1 {
     font-family: Algerian, "Copperplate Gothic Bold", "Engravers MT", "Rockwell Extra Bold", serif;
     font-size: 50px;
 }
