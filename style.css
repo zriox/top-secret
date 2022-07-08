@@ -1,9 +1,6 @@
-@font-face {
-    font-family: 'Comici Sans MS';
-    src: url("comic-sans-ms/ComicSansMS3.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 html {
-    font-family: "Comic Sans MS", 'Comici Sans MS', "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, Arial, sans-serif;
+    font-family: "Comic Sans MS", 'Patrick Hand', "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, Arial, sans-serif;
     background-color: blue;
     color: white;
 }
