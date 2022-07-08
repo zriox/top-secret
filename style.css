@@ -1,7 +1,5 @@
-@import url('http://fonts.cdnfonts.com/css/sans-comic-sans');
-
 html {
-    font-family: "Comic Sans MS", "Comic Sans", cursive, Arial, sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, Arial, sans-serif;
     background-color: blue;
     color: white;
 }
