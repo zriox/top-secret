@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Comici Sans MS';
-    src: url("comic-sans-ms/comici.ttf");
+    src: url("comic-sans-ms/ComicSansMS3.ttf");
 }
 html {
     font-family: "Comic Sans MS", 'Comici Sans MS', "Comic Sans", "Chalkboard SE", "Comic Neue", cursive, Arial, sans-serif;
